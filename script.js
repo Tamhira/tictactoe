@@ -1,3 +1,5 @@
+alert("Use Laptop for better experience");
+
 //PRELOADING ALL THE BACKGROUND IMAGES
 const preloadImages = [
     'redturn.png',
